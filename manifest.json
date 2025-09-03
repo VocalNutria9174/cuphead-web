@@ -4,8 +4,12 @@
   "name": "Cuphead CDV",
   "short_name": "Cuphead CDV",
   "version": "com.andrewdev.cupheadgame",
-  "description": "A fangame made with effort.",
+  "description": "A fangame made with effort. (created by AndrewDevCup)",
   "author": "AndrewDevCup",
-  "icons": [],
+  "icons": [      
+    "src": "favicon.png",
+    "type": "image/png",
+    "sizes": "256x256"
+    }],
   "start_url": "index.html"
 }
